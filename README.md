@@ -2,11 +2,7 @@
 <h3 align="center">A passionate full-stack developer from Nairobi Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mianse&label=Profile%20views&color=0e75b6&style=flat" alt="mianse" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mianse" alt="mianse" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/damian_orina" target="blank"><img src="https://img.shields.io/twitter/follow/damian_orina?logo=twitter&style=for-the-badge" alt="damian_orina" /></a> </p>
 
 - 🔭 I’m currently working on **damianShop**
 

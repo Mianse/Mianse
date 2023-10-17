@@ -1,3 +1,4 @@
+![logo](https://github.com/Mianse/Mianse/blob/main/Free%20Photo%20_%203d%20background%20with%20globe%20and%20programming%20code.jpg)
 <h1 align="center">Hi 👋, I'm Damian Orina</h1>
 <h3 align="center">A passionate full-stack developer from Nairobi Kenya</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">

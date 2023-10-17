@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **react, node, express, mongoose**
 
-- 📫 How to reach me **damianorina1@gmail.com**
+- 📫 How to reach me **damianorina17@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
